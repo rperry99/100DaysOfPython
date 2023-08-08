@@ -21,7 +21,7 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - Continued working on the python calculator. Refactored the code so functions were better broken down. Also added the ability to use floats (decimal numbers).
     - If the answer is a whole number, the program will also trim off the .0 since the number is a float.
     - I am aware this isn't going to be a super accurate calculator, just doing the project for some practice.
-- Coding Kata
+- [Coding Kata](https://www.codewars.com/users/russintech)
     - 1 7kyu challenge
     - 1 6kyu challenge
 - [Link to Tweet](https://twitter.com/russintech/status/1688644440607313920?s=20)
