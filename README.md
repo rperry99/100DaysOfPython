@@ -18,7 +18,11 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
 
 ### Day 3 (8/7/23)
 - [Python Calculator](https://github.com/rperry99/Python-Calculator)
-    - Started a small project to do something on my own for Python.
-    - Just a simple calculator where you enter a string like "55 - 10", and it will spit out the answer in a real sentence like "The answer to 55 - 10 is 45".
+    - Continued working on the python calculator. Refactored the code so functions were better broken down. Also added the ability to use floats (decimal numbers).
+    - If the answer is a whole number, the program will also trim off the .0 since the number is a float.
+    - I am aware this isn't going to be a super accurate calculator, just doing the project for some practice.
+- Coding Kata
+    - 1 7kyu challenge
+    - 1 6kyu challenge
 - [Link to Tweet](https://twitter.com/russintech/status/1688644440607313920?s=20)
 
