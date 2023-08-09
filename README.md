@@ -26,3 +26,9 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - 1 6kyu challenge
 - [Link to Tweet](https://twitter.com/russintech/status/1688644440607313920?s=20)
 
+### Day 4 (8/8/23)
+- [Coding Kata](https://www.codewars.com/users/russintech)
+    - 2 7kyu challenges
+    - 1 6kyu challenge
+- Checked out [Exercism](https://exercism.org/) as a way to practice. I kind of liked it, but I found the challenges difficult in the fact I didn't know what they were asking me. I got stuck on one of the first Python ones about money exchange. Not that I didn't know what to do, I didn't know what it was asking. I think the question had too little information.
+
