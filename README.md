@@ -31,4 +31,10 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - 2 7kyu challenges
     - 2 6kyu challenges
 - Checked out [Exercism](https://exercism.org/) as a way to practice. I kind of liked it, but I found the challenges difficult in the fact I didn't know what they were asking me. I got stuck on one of the first Python ones about money exchange. Not that I didn't know what to do, I didn't know what it was asking. I think the question had too little information.
+- [Link to Tweet](https://twitter.com/russintech/status/1689051644321787904?s=20)
+
+### Day 5 (8/9/23)
+- Started a new project, [Python Horror Picker](https://github.com/rperry99/Python-Horror-Picker)
+    - My idea is an app that will give you a random horror movie from a list. I have more ideas I want to implement, like being able to select sub-genres, or maybe even vibes of the movie. I would like to try looking into integrating Pandas into it for some database stuff.
+- [Link to Tweet](https://twitter.com/russintech/status/1689370506124775424?s=20)
 
