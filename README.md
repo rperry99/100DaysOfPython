@@ -38,3 +38,8 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - My idea is an app that will give you a random horror movie from a list. I have more ideas I want to implement, like being able to select sub-genres, or maybe even vibes of the movie. I would like to try looking into integrating Pandas into it for some database stuff.
 - [Link to Tweet](https://twitter.com/russintech/status/1689370506124775424?s=20)
 
+## Day 6 (8/10/23)
+- Added some functionality to [Python Horror Picker](https://github.com/rperry99/Python-Horror-Picker).
+    - Now there's an array of arrays. Each movie has a sub-genre attached. In the future, I am going to allow the user to enter a subgenre, and a random movie in that subgenre will be picked.
+- [Link to Tweet](https://twitter.com/russintech/status/1689764045946060800?s=20)
+
