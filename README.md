@@ -43,3 +43,9 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - Now there's an array of arrays. Each movie has a sub-genre attached. In the future, I am going to allow the user to enter a subgenre, and a random movie in that subgenre will be picked.
 - [Link to Tweet](https://twitter.com/russintech/status/1689764045946060800?s=20)
 
+## Day 7 (8/11/23)
+- Added some functionality to [Python Horror Picker](https://github.com/rperry99/Python-Horror-Picker).
+    - The user can now enter the subgenre they want for the movie.
+    - The program will shuffle the array, then loop though it, picking the first movie that matches the subgenre chosen by the user.
+    - If there isn't a movie in the subgenre in the list, then the user will be told as much.
+- [Link to Tweet](https://twitter.com/russintech/status/1690117080580808706?s=20)
