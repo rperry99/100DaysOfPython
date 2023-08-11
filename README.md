@@ -48,4 +48,4 @@ You can view me tweeting my progress over at my [X profile (Twitter)](https://tw
     - The user can now enter the subgenre they want for the movie.
     - The program will shuffle the array, then loop though it, picking the first movie that matches the subgenre chosen by the user.
     - If there isn't a movie in the subgenre in the list, then the user will be told as much.
-- [Link to Tweet](https://twitter.com/russintech/status/1690117080580808706?s=20)
+- [Link to Tweet](https://twitter.com/russintech/status/1690117080580808706?s=20) (I was dumb, and forgot how to count, so the tweet says day 6, but it should be 7.)
